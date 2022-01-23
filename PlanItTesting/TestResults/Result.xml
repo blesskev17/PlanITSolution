@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\PlanItSol\PlanItTesting\PlanItTesting\bin\Debug\PlanItTesting.dll" total="7" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2022-01-23" time="02:29:34">
+  <environment nunit-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\PlanItSol\PlanItTesting\packages\NUnit.ConsoleRunner.3.14.0\tools" machine-name="LAPTOP-CPR5AGU7" user="bless" user-domain="LAPTOP-CPR5AGU7" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\PlanItSol\PlanItTesting\PlanItTesting\bin\Debug\PlanItTesting.dll" executed="True" result="Success" success="True" time="87.433" asserts="0">
+    <properties>
+      <property name="_PID" value="25644" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <results>
+      <test-suite type="SetUpFixture" name="[default namespace]" executed="True" result="Success" success="True" time="87.386" asserts="0">
+        <results>
+          <test-suite type="TestSuite" name="PlanItTesting" executed="True" result="Success" success="True" time="85.971" asserts="0">
+            <results>
+              <test-suite type="TestSuite" name="Features" executed="True" result="Success" success="True" time="85.971" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="JupiterToysFeature" description="JupiterToys" executed="True" result="Success" success="True" time="85.969" asserts="0">
+                    <properties>
+                      <property name="Description" value="JupiterToys" />
+                    </properties>
+                    <results>
+                      <test-suite type="ParameterizedTest" name="TC1_Verify_Contact_Submission" description="TC1_Verify_Contact_Submission" executed="True" result="Success" success="True" time="69.313" asserts="0">
+                        <properties>
+                          <property name="Description" value="TC1_Verify_Contact_Submission" />
+                        </properties>
+                        <results>
+                          <test-case name="PlanItTesting.Features.JupiterToysFeature.TC1_Verify_Contact_Submission(&quot;john&quot;,&quot;honai&quot;,&quot;john.honai@example.com&quot;,&quot;0451765890&quot;,&quot;adding contacts&quot;,null)" executed="True" result="Success" success="True" time="12.519" asserts="0" />
+                          <test-case name="PlanItTesting.Features.JupiterToysFeature.TC1_Verify_Contact_Submission(&quot;kevin&quot;,&quot;cherian&quot;,&quot;kevin.cherian@example.com&quot;,&quot;0451765887&quot;,&quot;adding contacts&quot;,null)" executed="True" result="Success" success="True" time="13.311" asserts="0" />
+                          <test-case name="PlanItTesting.Features.JupiterToysFeature.TC1_Verify_Contact_Submission(&quot;Blessy&quot;,&quot;Mathew&quot;,&quot;blessy.mathew@example.com&quot;,&quot;0451765892&quot;,&quot;adding contacts&quot;,null)" executed="True" result="Success" success="True" time="17.943" asserts="0" />
+                          <test-case name="PlanItTesting.Features.JupiterToysFeature.TC1_Verify_Contact_Submission(&quot;Bobby&quot;,&quot;Mathew&quot;,&quot;bobby.mathew@example.com&quot;,&quot;0451765897&quot;,&quot;adding contacts&quot;,null)" executed="True" result="Success" success="True" time="11.537" asserts="0" />
+                          <test-case name="PlanItTesting.Features.JupiterToysFeature.TC1_Verify_Contact_Submission(&quot;kishan&quot;,&quot;rajan&quot;,&quot;kishan.Rajan@example.com&quot;,&quot;0451765893&quot;,&quot;adding contacts&quot;,null)" executed="True" result="Success" success="True" time="13.980" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-case name="PlanItTesting.Features.JupiterToysFeature.TC2_Verify_Items_In_Cart" description="TC2_Verify_Items_in_Cart" executed="True" result="Success" success="True" time="7.931" asserts="0">
+                        <properties>
+                          <property name="Description" value="TC2_Verify_Items_in_Cart" />
+                        </properties>
+                      </test-case>
+                      <test-case name="PlanItTesting.Features.JupiterToysFeature.TC3_Verify_Subtotal_For_Each_Product" description="TC3_Verify_Subtotal_for_each_product" executed="True" result="Success" success="True" time="8.698" asserts="0">
+                        <properties>
+                          <property name="Description" value="TC3_Verify_Subtotal_for_each_product" />
+                        </properties>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

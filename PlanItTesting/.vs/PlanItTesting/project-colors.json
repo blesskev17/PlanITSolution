@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8ceeb4d-69b9-455d-b5ed-1a17c0421d71": {
+      "ProjectGuid": "a8ceeb4d-69b9-455d-b5ed-1a17c0421d71",
+      "DisplayName": "PlanItTesting",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
